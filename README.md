@@ -1,4 +1,4 @@
-[![MasterHead](https://https://www.educative.io/v2api/editorpage/5012433147002880/image/5193198472265728)](https://rishavchanda.io)
+[![MasterHead](https://www.educative.io/v2api/editorpage/5012433147002880/image/5193198472265728)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Daniel Temitayo Peter</h1>
 <h3 align="center">I'm a professional software developer</h3>
 
